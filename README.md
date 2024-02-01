@@ -44,4 +44,5 @@ Users can navigate the Solar System using the following commands:
 ## Usage
 
 Open the **index.html** file or just go to ***<https://galaxycrush.github.io/CG-Project/>*** to see a live demo .
+
 **Note**: I recommend using hardware acceleration for a better experience.
