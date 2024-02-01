@@ -40,3 +40,7 @@ Users can navigate the Solar System using the following commands:
 - **2:** Position the camera on the surface of the Sun.
 - **Mouse:** Rotate the camera horizontally and vertically in first person.
 - **o:** Toggle orbit lines visibility.
+
+## Usage
+
+Open the **index.html** file or just go to ***<https://galaxycrush.github.io/CG-Project/>*** to see a live demo .
